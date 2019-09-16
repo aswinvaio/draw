@@ -1,0 +1,6 @@
+C:\Git\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Git\Draw\Draw\bin\Debug\Draw.exe
+C:\Git\Draw\Draw\bin\Debug\Draw.pdb
+C:\Git\Draw\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Git\Draw\Draw\obj\Debug\Draw.exe
+C:\Git\Draw\Draw\obj\Debug\Draw.pdb

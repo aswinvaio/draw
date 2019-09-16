@@ -1,0 +1,5 @@
+C:\Git\Draw\DrawDeploy\bin\Debug\DrawDeploy.exe.config
+C:\Git\Draw\DrawDeploy\bin\Debug\DrawDeploy.exe
+C:\Git\Draw\DrawDeploy\bin\Debug\DrawDeploy.pdb
+C:\Git\Draw\DrawDeploy\obj\Debug\DrawDeploy.exe
+C:\Git\Draw\DrawDeploy\obj\Debug\DrawDeploy.pdb
