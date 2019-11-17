@@ -1,0 +1,11 @@
+D:\GIT\draw\DrawDeploy\bin\Release\DrawDeploy.exe.config
+D:\GIT\draw\DrawDeploy\bin\Release\DrawDeploy.exe
+D:\GIT\draw\DrawDeploy\bin\Release\DrawDeploy.pdb
+D:\GIT\draw\DrawDeploy\bin\Release\Draw.exe
+D:\GIT\draw\DrawDeploy\bin\Release\Draw.pdb
+D:\GIT\draw\DrawDeploy\bin\Release\Draw.exe.config
+D:\GIT\draw\DrawDeploy\obj\Release\DrawDeploy.csprojAssemblyReference.cache
+D:\GIT\draw\DrawDeploy\obj\Release\DrawDeploy.csproj.CoreCompileInputs.cache
+D:\GIT\draw\DrawDeploy\obj\Release\DrawDeploy.csproj.CopyComplete
+D:\GIT\draw\DrawDeploy\obj\Release\DrawDeploy.exe
+D:\GIT\draw\DrawDeploy\obj\Release\DrawDeploy.pdb

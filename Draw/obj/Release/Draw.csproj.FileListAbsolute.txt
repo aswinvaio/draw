@@ -1,0 +1,7 @@
+D:\GIT\draw\Draw\bin\Release\Draw.exe.config
+D:\GIT\draw\Draw\bin\Release\Draw.exe
+D:\GIT\draw\Draw\bin\Release\Draw.pdb
+D:\GIT\draw\Draw\obj\Release\Draw.csprojAssemblyReference.cache
+D:\GIT\draw\Draw\obj\Release\Draw.csproj.CoreCompileInputs.cache
+D:\GIT\draw\Draw\obj\Release\Draw.exe
+D:\GIT\draw\Draw\obj\Release\Draw.pdb

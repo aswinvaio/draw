@@ -3,3 +3,5 @@ C:\Git\Draw\DrawDeploy\bin\Debug\DrawDeploy.exe
 C:\Git\Draw\DrawDeploy\bin\Debug\DrawDeploy.pdb
 C:\Git\Draw\DrawDeploy\obj\Debug\DrawDeploy.exe
 C:\Git\Draw\DrawDeploy\obj\Debug\DrawDeploy.pdb
+C:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.csprojAssemblyReference.cache
+C:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.csproj.CoreCompileInputs.cache
