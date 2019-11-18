@@ -5,3 +5,10 @@ C:\Git\Draw\Draw\obj\Debug\Draw.exe
 C:\Git\Draw\Draw\obj\Debug\Draw.pdb
 C:\GIT\draw\Draw\obj\Debug\Draw.csprojAssemblyReference.cache
 C:\GIT\draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\GIT\draw\Draw\bin\Debug\Draw.exe.config
+D:\GIT\draw\Draw\bin\Debug\Draw.exe
+D:\GIT\draw\Draw\bin\Debug\Draw.pdb
+D:\GIT\draw\Draw\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\GIT\draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\GIT\draw\Draw\obj\Debug\Draw.exe
+D:\GIT\draw\Draw\obj\Debug\Draw.pdb

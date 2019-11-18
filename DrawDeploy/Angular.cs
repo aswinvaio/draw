@@ -62,9 +62,9 @@ namespace DrawDeploy
                 try
                 {
                     File.Copy(string.Format(@"{0}\{1}", AppDomain.CurrentDomain.BaseDirectory, drawExe)
-                        , string.Format(@"{0}\{1}", root, appExe));
+                        , string.Format(@"{0}\{1}.exe", root, appExe));
                     File.Copy(string.Format(@"{0}\{1}.config", AppDomain.CurrentDomain.BaseDirectory, drawExe)
-                        , string.Format(@"{0}\{1}.config", root, appExe));
+                        , string.Format(@"{0}\{1}.exe.config", root, appExe));
                     File.Copy(string.Format(@"{0}\{1}", AppDomain.CurrentDomain.BaseDirectory, drawFileName)
                         , string.Format(@"{0}\{1}", root, drawFileName));
 
@@ -97,7 +97,7 @@ namespace DrawDeploy
 
             try
             {
-                File.Delete(string.Format(@"{0}\{1}", root, appExe));
+                File.Delete(string.Format(@"{0}\{1}.exe", root, appExe));
                 File.Move(string.Format(@"{0}\{1}\{2}", root, backupFolder, appExe), string.Format(@"{0}\{1}", root, appExe));
             }
             catch (Exception e)
@@ -105,11 +105,11 @@ namespace DrawDeploy
                 Console.WriteLine(e.Message);
             }
 
-            if(File.Exists(string.Format(@"{0}\{1}.config", root, appExe)))
+            if(File.Exists(string.Format(@"{0}\{1}.exe.config", root, appExe)))
             {
                 try
                 {
-                    File.Delete(string.Format(@"{0}\{1}.config", root, appExe));
+                    File.Delete(string.Format(@"{0}\{1}.exe.config", root, appExe));
                 }
                 catch (Exception e)
                 {

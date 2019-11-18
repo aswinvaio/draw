@@ -5,3 +5,14 @@ C:\Git\Draw\DrawDeploy\obj\Debug\DrawDeploy.exe
 C:\Git\Draw\DrawDeploy\obj\Debug\DrawDeploy.pdb
 C:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.csprojAssemblyReference.cache
 C:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.csproj.CoreCompileInputs.cache
+D:\GIT\draw\DrawDeploy\bin\Debug\DrawDeploy.exe.config
+D:\GIT\draw\DrawDeploy\bin\Debug\DrawDeploy.exe
+D:\GIT\draw\DrawDeploy\bin\Debug\DrawDeploy.pdb
+D:\GIT\draw\DrawDeploy\bin\Debug\Draw.exe
+D:\GIT\draw\DrawDeploy\bin\Debug\Draw.pdb
+D:\GIT\draw\DrawDeploy\bin\Debug\Draw.exe.config
+D:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.csprojAssemblyReference.cache
+D:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.csproj.CoreCompileInputs.cache
+D:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.csproj.CopyComplete
+D:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.exe
+D:\GIT\draw\DrawDeploy\obj\Debug\DrawDeploy.pdb

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Draw
 {
@@ -13,6 +14,8 @@ namespace Draw
 
         static void Main(string[] args)
         {
+            Directory.SetCurrentDirectory(AppDomain.CurrentDomain.BaseDirectory);
+
             Bitmap bmpSrc = new Bitmap(Config.Get("FileToDraw"), true);
             WriteImage(bmpSrc);
             System.Threading.Thread.Sleep(1000);
